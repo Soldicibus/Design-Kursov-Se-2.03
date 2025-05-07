@@ -9,4 +9,4 @@
 ## ПР-8: "Типографіка  в дизайні користувальницького інтерфейсу. Частина 2" <a href="https://github.com/Soldicibus/Design-Kursov-Se-2.03/blob/main/8/workshop_8.md">Посилання</a> <br>
 ## ПР-9: "Функція Auto layout у Figma. Створення картки товару (послуги)" <a href="https://github.com/Soldicibus/Design-Kursov-Se-2.03/blob/main/9/workshop_9.md">Посилання</a> <br>
 ## ПР-10: "Про компоненти і варіанти у Figma" Опрацьовано <br>
-## ПР-10 (2): "Створення варфрейму та прототипу." <a href="https://github.com/Soldicibus/Design-Kursov-Se-2.03/blob/main/10/workshop_10.md">Посилання</a> <br>
+## ПР-11 (2): "Створення варфрейму та прототипу." <a href="https://github.com/Soldicibus/Design-Kursov-Se-2.03/blob/main/10/workshop_10.md">Посилання</a> <br>
