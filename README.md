@@ -11,3 +11,4 @@
 ## ПР-10: "Про компоненти і варіанти у Figma" Опрацьовано <br>
 ## ПР-11: "Створення варфрейму та прототипу." <a href="https://github.com/Soldicibus/Design-Kursov-Se-2.03/blob/main/11/workshop_11.md">Посилання</a> <br>
 ## ПР-12: "Дослідження кольорових гармоній та інструментів аналізу кольору в Adobe Color" <a href="https://github.com/Soldicibus/Design-Kursov-Se-2.03/blob/main/12/workshop_12.md">Посилання</a> <br>
+## З-40: "Prototype Testing. Think-aloud protocol (Тестування прототипів. Протокол «Думай вголос»)." Опрацьовано <br>
